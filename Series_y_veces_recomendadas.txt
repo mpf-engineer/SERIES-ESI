@@ -1,0 +1,50 @@
+"Breaking Bad", 16
+"Mr. Robot", 4
+"Andor", 7
+"One Piece", 12
+"Juego de Tronos", 15
+"La Casa del Dragón", 12
+"Peaky Blinders", 11
+"Vikingos", 7
+"Attack On Titan", 8
+"Better Call Saul", 10
+"Westworld", 3
+"Dragon Ball Z", 10
+"La casa de papel", 7
+"Como Conocí a Vuestra Madre", 7
+"Arcane", 3
+"Gotham", 2
+"Dragon Ball Super", 8
+"Chernobyl", 4
+"Misa de Medianoche", 2
+"My Hero Academia", 3
+"Sons of Anarchy", 3
+"Loki", 5
+"Gambito de Dama", 4
+"Dark", 6
+"Black Mirror", 6
+"Outer Banks", 4
+"The Mandalorian", 5
+"Moon Knight", 4
+"El Juego del Calamar", 3
+"Castle", 2
+"Rick y Morty", 10
+"The Boys", 11
+"Dr. Who", 3
+"The Peripheral", 2
+"Hawaii 5.0", 2
+"Demon Slayer", 3
+"WandaVision", 4
+"The Walking Dead", 7
+"Narcos", 8
+"Hawkeye", 3
+"Stranger Things", 7
+"La Playlist", 2
+"Dahmer", 4
+"Death Note", 5
+"Crónicas Vampíricas", 4
+"Prison Break", 9
+"La Que Se Avecina", 4
+"The Witcher", 3
+"Los Simpsons", 6
+"Big Mouth", 2
